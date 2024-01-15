@@ -37,13 +37,19 @@ Average duration across the years (1986-2023) per the dataset
 <img width="861" alt="Screenshot 2024-01-15 at 12 51 32 AM" src="https://github.com/rsoetirto/spotify-song-duration-analysis/assets/109045573/79dc0640-288f-4bd4-a465-3f69adf80e43">
 
 3. PCA Analysis
-<img width="714" alt="Screenshot 2024-01-15 at 12 52 07 AM" src="https://github.com/rsoetirto/spotify-song-duration-analysis/assets/109045573/ca14bcf2-5278-43f2-ac76-186d9d162240">
+<img width="694" alt="Screenshot 2024-01-15 at 1 20 50 AM" src="https://github.com/rsoetirto/spotify-song-duration-analysis/assets/109045573/c78d0a4c-ddd5-4e60-a4c9-7a8c064e207a">
+
 
 4. Multiple Regression
 <img width="612" alt="Screenshot 2024-01-15 at 1 18 39 AM" src="https://github.com/rsoetirto/spotify-song-duration-analysis/assets/109045573/23aca931-0a05-4151-9d34-3f596487ef6b">
 
 5. Time Series 
 <img width="624" alt="Screenshot 2024-01-15 at 1 19 55 AM" src="https://github.com/rsoetirto/spotify-song-duration-analysis/assets/109045573/c227d12b-a8e3-4164-b4d0-01601b272d04">
+
+---
+
+**Conclusion**
+This study's findings show that quantitative models may not capture a strong relationship between duration and amount of streams/popularity. This indicates that the descreasing trend in song duration might be influenced more by qualitative factors aside from streams alone.
 
 
    
