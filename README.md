@@ -34,11 +34,10 @@ Average duration across the years (1986-2023) per the dataset
 <img width="645" alt="Screenshot 2024-01-15 at 12 51 42 AM" src="https://github.com/rsoetirto/spotify-song-duration-analysis/assets/109045573/3260d4fb-99fd-4904-98a0-33bb49bc7b1b">
 
 2. Simple Regression
-<img width="861" alt="Screenshot 2024-01-15 at 12 51 32 AM" src="https://github.com/rsoetirto/spotify-song-duration-analysis/assets/109045573/79dc0640-288f-4bd4-a465-3f69adf80e43">
+<img width="852" alt="Screenshot 2024-01-15 at 1 26 55 AM" src="https://github.com/rsoetirto/spotify-song-duration-analysis/assets/109045573/d217d46f-a8e4-45b7-a09d-6ed716be8680">
 
 3. PCA Analysis
 <img width="694" alt="Screenshot 2024-01-15 at 1 20 50 AM" src="https://github.com/rsoetirto/spotify-song-duration-analysis/assets/109045573/c78d0a4c-ddd5-4e60-a4c9-7a8c064e207a">
-
 
 4. Multiple Regression
 <img width="612" alt="Screenshot 2024-01-15 at 1 18 39 AM" src="https://github.com/rsoetirto/spotify-song-duration-analysis/assets/109045573/23aca931-0a05-4151-9d34-3f596487ef6b">
