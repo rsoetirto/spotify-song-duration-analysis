@@ -25,11 +25,19 @@ The dataset comprises over **34 variables**, which include **22 numerical variab
 
 **Analysis**
 
-1. Correlation Analysis
-2. Simple Regression
-3. PCA Analysis
-4. Multiple Regression
-5. Time Series / Forecast
+Average duration across the years (1986-2023) per the dataset
+
+<img width="849" alt="Screenshot 2024-01-15 at 12 51 21 AM" src="https://github.com/rsoetirto/spotify-song-duration-analysis/assets/109045573/ddbe489f-40dd-461a-97aa-ce33e1c61ede">
+
+
+1. Correlation Analysis / Correlation Heatmap 
+
+
+   
+3. Simple Regression
+4. PCA Analysis
+5. Multiple Regression
+6. Time Series / Forecast
 
    
 
