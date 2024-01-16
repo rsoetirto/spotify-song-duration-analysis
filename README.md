@@ -48,6 +48,7 @@ Average duration across the years (1986-2023) per the dataset
 ---
 
 **Conclusion**
+<br>
 This study's findings show that quantitative models may not capture a strong relationship between duration and amount of streams/popularity. This indicates that the descreasing trend in song duration might be influenced more by qualitative factors aside from streams alone.
 
 Click on the jupyter notebook file (.ipynb) to learn further, including the code used to conduct this statistical study.
