@@ -18,7 +18,7 @@ Data collection involves utilizing a function to send requests to Spotify’s AP
 
 The dataset comprises over **34 variables**, which include **22 numerical variables related to characteristics** and **12 categorical variables** for artists, genre, and album type, among others. These variables fall into four types: float, integral, strings, and booleans.
 
-<img src="https://github.com/rsoetirto/spotify-song-duration-analysis/assets/109045573/7bf9f499-1ac9-4a91-81b5-f4012f6741ce" width="550" height="350" />)
+<img src="https://github.com/rsoetirto/spotify-song-duration-analysis/assets/109045573/7bf9f499-1ac9-4a91-81b5-f4012f6741ce" width="400" height="350" />)
 <img src="https://github.com/rsoetirto/spotify-song-duration-analysis/assets/109045573/917a0ed5-d5d2-4fef-b43c-44791d0f56d0" width="550" height="350" />)
 
 ---
